@@ -1,0 +1,379 @@
+{
+  "Ads":
+  [
+    {
+      "status_app":"0",
+      "link_redirect":"http://",
+      "select_ads":"",
+      "select_backup_ads":"APPLOVIN",
+      "backup_mode":"0",
+      "admob_openid":"",
+      "admob_nativeid":"",
+      "admob_interid":"",
+      "admob_bannerid":"",
+      "interval_intertitial":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":"",
+      "mopub_banner":"",
+      "mopub_inter":"",
+      "mopub_mrec":"",
+      "applovin_banner":"",
+      "applovin_inter":""
+    }
+  ],
+
+  "More":
+  [
+	{
+      "id":1,
+      "title":"BTS Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BTS.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.btsskin"
+    },
+	{
+      "id":2,
+      "title":"BEN10 Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BEN.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.ben10skinsMCPE"
+    },
+	{
+      "id":3,
+      "title":"SCP Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/SCp.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.scpskins"
+    },
+	{
+      "id":4,
+      "title":"FreeFire Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/FF.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.freefire"
+    },
+  ],
+  "Skin":
+  [
+       {
+      "id":1,
+      "name_skin":"among us red",
+      "skin_url":"https://lh3.googleusercontent.com/xoW2xYRAz-pILEd-uAkATdW86EFE4AdHnXBtY6vWv1skVXRIfVTJfbSCfttMMqk7x6iEVM3-rAN-TLiXlNLSrEQ",
+      "view_skin":"https://lh3.googleusercontent.com/h1TfkH4z5VVkytB39cRrIjvM8Q9ywEN68-ectw352qXMceAqnF1bBkQbkREBkMHX3lxFkUjPq7VzM2OA7MuciQ"
+    },
+	{
+      "id":2,
+      "name_skin":"Among Us",
+      "skin_url":"https://lh3.googleusercontent.com/Wj-g838q5b1NXikCssQklUcDokGuUMfRYw_R4qQQFBa0OEp9gVH377ISNbv2QuGcgvc4XNDQ3Y2w_DIpFJWQXQ",
+      "view_skin":"https://lh3.googleusercontent.com/gcss2Bg9bPFnu0h9ti5butn3ggBePc_UCETxb_-J0gQf2X-mtacjec0BXNldsi6SnchymzW7OfaNYLnzILBt5WQ"
+    },
+	{
+      "id":3,
+      "name_skin":"among us skins",
+      "skin_url":"https://lh3.googleusercontent.com/b6fyCasZNTb-z5udsa9WlTXF9wdAc_TJCPSq2fAN-dyNld1zIEV6m55mFLu3eSavhKiia3cne_L6NucAXW3Jcg",
+      "view_skin":"https://lh3.googleusercontent.com/xQ8--xpHt0aEKyoWkyFz3QB43Jx6rNAfiPHw06c8FAnYdJbXHVhWcLRLC1tv-6TWy_G-kz5nUdlXLpilJ52XZYc"
+    },
+	  {
+      "id":4,
+      "name_skin":"among us green",
+      "skin_url":"https://lh3.googleusercontent.com/wzRsITm6ZjVKlcOMr1uCPSB9JSZTeEIVbF3GsMR57e3hQaImsGMZWc5zSvU65pHwhghQohVSctco4oTS4aSviw",
+      "view_skin":"https://lh3.googleusercontent.com/v7HdyOACTmeJhvmQOKpuXAZtQ0GlZAOgWnbiI48ZHm15dljn4FuXxggi46Dyp7-u8gqyJqIGRdkO3spYmZW6kdU"
+    },
+	{
+      "id":5,
+      "name_skin":"Among Us Black",
+      "skin_url":"https://lh3.googleusercontent.com/XTLnxfqQnFlfFq-CC9-9HXGmdWLLxvlpTLvn5O6_pHKqYh-0ntvwaG-gB8Vc34nA_4BRECgBVBxjFc3b6BrHYQ",
+      "view_skin":"https://lh3.googleusercontent.com/gBwGew_szwYHmpHvgeyudljDDiaVTkDyyDMjZ6F-qJVBBa60Yz7l2PWp62xN3cH4_zA47RPrCCuLjNqF87CXIw"
+    },
+	  {
+      "id":6,
+      "name_skin":"Among Us Black",
+      "skin_url":"https://lh3.googleusercontent.com/hP3L1RJdxYaBNKOGN0H9trEmlkcKIioDqiZK-xKe0KdeAVCuA4RXeAqFNkOevLKLyaXpdGgriGG6FRbynVNkRA",
+      "view_skin":"https://lh3.googleusercontent.com/WlUjzKN9bu8xuV50HDx2CvMZKDEK5yHEGkd8lXuogc3nPa6oUxuMN3-scAZlH3jxIDwohqBlXB9vgdVd81qh1w"
+    },
+	{
+      "id":7,
+      "name_skin":"among us pink",
+      "skin_url":"https://lh3.googleusercontent.com/ZMDPmmJouwevTPU6pI1iB2ApV2n36hCYSLdh2JBPL5qb5Z39x1UB6CJsKRJRMPEfWozRYw8xLYgMwzAx3Dxyag",
+      "view_skin":"https://lh3.googleusercontent.com/XneERJO-q6nXjiJyipiw2_tNwMKcqe31pRR73-NwizuUH1F3FSNMsNi39TfvzYhBnHHaYCyXfXDk7kUhZMBXwA"
+    },
+	{
+      "id":8,
+      "name_skin":"black among us skin - shuii",
+      "skin_url":"https://lh3.googleusercontent.com/KEG-aTznWMjv8bLXMAvT6jYDMiZIoZq-D2AoDu1czTgoNBmifHW5cklgNsCmn1wuCQEy61rW9tTxRDRTbxc-rg",
+      "view_skin":"https://lh3.googleusercontent.com/URF7J5FY4233F8L2WmI218AnXwA2hwKdlKTEL4ChtxfUxTevYO_pYmaouxZDcYvfGdN8mx9oL-_iNoEms43VsaA"
+    },
+	{
+      "id":9,
+      "name_skin":"Blue Among Us",
+      "skin_url":"https://lh3.googleusercontent.com/qNCBPZ76bFFI0fud48lru3AJ85V7-0FxVbhXc9VJYzHgsKxzavQH8Xsn4xXqiZnkAuQvx3ZT9gfXPpTzrzNC",
+      "view_skin":"https://lh3.googleusercontent.com/UZW1XGdk8HsQqEVFfu3j-TZ_h3jqY3ZauJE2UTCIPe_c1lHvLNGZXepB90cM_WNy5BLrr_tKoIw7XpWgP3gi"
+    },
+	{
+      "id":10,
+      "name_skin":"Among us Rainbow",
+      "skin_url":"https://lh3.googleusercontent.com/MW7hfJ8NxHLEhbCebJk7V7g-La37H8rR84C8-wQtJPCVEvBXIdFJ_F6jQif0NnfqfGPOFOl3NwdhW19S0m4sAA",
+      "view_skin":"https://lh3.googleusercontent.com/SoUNsldBJN0jHfU3uogfEPIoOzXtxaG5mU_51AsKwL9RF1by05oTJDaNWfHFNIoUwXFbwTrh3zIS2TU6oaM-"
+    },
+	    {
+      "id":11,
+      "name_skin":"Among Us Black Doctor",
+      "skin_url":"https://lh3.googleusercontent.com/UFGqNxLz5WaEmdwNy9JJPkJywBXKIATU83q-xe0v-wfioalC9K1wvBsEBb0CxoSXaoJ4x24UEKyfdHJmk4YxQps",
+      "view_skin":"https://lh3.googleusercontent.com/6LSXov-nVk0zlJ1OSHgRikjBvGdSj0dOzsvAu1o4yPIIRE-KOosSXmyC3d2tI6fUPFfbeJg8Hgzk8AO7JB_vHw"
+    },
+	{
+      "id":12,
+      "name_skin":"Among Us Red : Fixed",
+      "skin_url":"https://lh3.googleusercontent.com/YV8r8aEuIodlQx7gPGCF8VbTJWHGidr6aBu2dDfEHVds7Fa2Iw_k8-Uunb5wNowHCe-xIMkZ9gHb9_2YzXTBGA",
+      "view_skin":"https://lh3.googleusercontent.com/aUtnLsxQfq52SzgO_5Cz3tjpqrIAJATkBNlM8vh7Z42SJtbJoHyPI1Ldq7weUIqqP9uu6mETLq2FNdN73Et-"
+    },
+	{
+      "id":13,
+      "name_skin":"Blue Among Us",
+      "skin_url":"https://lh3.googleusercontent.com/TLj2sAXGSTzOcFPtzOHBEL_ldyMpGVksWMmVr9VfwSxUjI_flDnqzsld3B-gGLIXx__JgCBbT3VHfwq7lKbG",
+      "view_skin":"https://lh3.googleusercontent.com/Ig1wn0Gh1-0b_aHgbfZWjZG9BwpRPW0moikskQSLX5VcxsMkEcm0Au6hwR6smAjJjvSN-XL78GWqHGFvLqt-fSE"
+    },
+	  {
+      "id":14,
+      "name_skin":"Among Us",
+      "skin_url":"https://lh3.googleusercontent.com/eDDi1HUs3GRFPJNxJ2NBLP1L3RLtLN14nAYkRoCj6Diz8wNcsZA3B8ToDX4j2fdNOU2QllO-7AUYnFujMXzKpKQ",
+      "view_skin":"https://lh3.googleusercontent.com/yztyh5QZQr7jNl0lb2LOSiWjQcobh0J14EA5xLG1dezg7myBx_4HFlC_usXDaWx1eSwfd7Hy912FzKB78TgN"
+    },
+	{
+      "id":15,
+      "name_skin":"among us",
+      "skin_url":"https://lh3.googleusercontent.com/Wj-g838q5b1NXikCssQklUcDokGuUMfRYw_R4qQQFBa0OEp9gVH377ISNbv2QuGcgvc4XNDQ3Y2w_DIpFJWQXQ",
+      "view_skin":"https://lh3.googleusercontent.com/-j40c9aDaiRV4oAoTzJWCreYaXbJ5Kfeq_CM9eO9gIJ6tz9_j3FMZxt0sdRuqUsGJR17Lib627kOF8hRzrmm"
+    },
+	  {
+      "id":16,
+      "name_skin":"among us dead",
+      "skin_url":"https://lh3.googleusercontent.com/MMS_WhUGfG47yhYSIEuIJYKUjEmDbsfOIhKhf9TGTB1BQherHFAyoISuu8P2wQH4-qXYcj0Omb-cFldBRRPq",
+      "view_skin":"https://lh3.googleusercontent.com/3rRc2YOq4xkAA0e27sI0bqXnIB9L3jb8RCyS8unEkl5CqgJwV3KD4cMWRt7QT12JhMjisXhvRhEqOS7KqznEw0c"
+    },
+	{
+      "id":17,
+      "name_skin":"among us",
+      "skin_url":"https://lh3.googleusercontent.com/wisoGExdRmFpn93VKC3JFLQvswMj_RKYP7rG6NzrHJdXFv04yEHmoyAAQQWH-qGqHf4EmezBBWUkc4OMogxahA",
+      "view_skin":"https://lh3.googleusercontent.com/UKKfi0dw8S9Q3ym4gp-IB72t1MAR7K4s8xkEw1Njay9BHMocyGV6be8s_1I9XGGzWrMHLan9m-dKx_LcWAoilIM"
+    },
+	{
+      "id":18,
+      "name_skin":"green among us",
+      "skin_url":"https://lh3.googleusercontent.com/QytP6IMI8r-abtZPzfh2Io_SPm1UCJJRAL8pylORdx7vN6YHIIHqopdkn9-j1i7XywbQeH40PWELGWSh5yNMyNA",
+      "view_skin":"https://lh3.googleusercontent.com/rflThF6o57lR_pnX08tysO_1med4aWWtGQswp81w9Jg9lCmaqZvkjSzfzfkTfpoZwSh9ZibYyovdOgkyprfY"
+    },
+	{
+      "id":19,
+      "name_skin":"Among US",
+      "skin_url":"https://lh3.googleusercontent.com/Fgy5g9J8saQgQWmV5E6sjtxlwrL4PM8kbqwVbh5ZK71D4eqah7oUKdMkD_4seDI0mo9wPGDzNyjLLvvftRc8Fg",
+      "view_skin":"https://lh3.googleusercontent.com/76M70lvUkB4JrcSIt78OFhkYheqOaXkxSX5aTbaLd4b-gVheJ-LlDuLBy5_My2gmRmKQ0e8E_WIxi5NORTclzUw"
+    },
+	{
+      "id":20,
+      "name_skin":"Among Us",
+      "skin_url":"https://lh3.googleusercontent.com/b6fyCasZNTb-z5udsa9WlTXF9wdAc_TJCPSq2fAN-dyNld1zIEV6m55mFLu3eSavhKiia3cne_L6NucAXW3Jcg",
+      "view_skin":"https://lh3.googleusercontent.com/KkKWKHFAwoap3raMKybYzZchXL9_Wzj0SqOljWTAfiP0p7bScdpxguaxyoRjiZsJtGxmyIfsVTYwR-sQyKhk"
+    },
+	    {
+      "id":21,
+      "name_skin":"among us purple skin",
+      "skin_url":"https://lh3.googleusercontent.com/yDG3qBi2I3m_UAgoRuW0rWxUKDk9KZZN7gTz64r0HHvGMcoXhfxW3C7uQZ___diuyyhwSU-mgYUORgD38BoGNQ",
+      "view_skin":"https://lh3.googleusercontent.com/QmhAf0FGaYRzA_NLhXNFUYhh9IF7uXfx1ckTeekif6xpfBvXHPqTMwtkga5cATtd_JYiwofUY-as0Ick7ODA"
+    },
+	{
+      "id":22,
+      "name_skin":"among us drip",
+      "skin_url":"https://lh3.googleusercontent.com/Nuu13XAzrEmCcuHnxDF3A0VcOET2icmOHWAVF7Cvp7b0yuy7IW95Og1LW14VY1j6R7ZOopwMH64lAgwUVeJwIRQ4l4WT-nlr3hg",
+      "view_skin":"https://lh3.googleusercontent.com/HnwmKWHoYGiL9yDsjh6iZDSdKR7Z-V1Puis-HkPyU1c4RmL85yAr7t0svLm3RvgnDwWkczHqLjg_4tMibz5DfLbPb-6QbdsSpr4"
+    },
+	{
+      "id":23,
+      "name_skin":"Among Us Ciano",
+      "skin_url":"https://lh3.googleusercontent.com/VhTdPBmJry4ciJYolU8hYrJwINxKPN_JDdje5PpOWYN5j0mwaveGDEbNewJ9iJW4Bm1GLR6lkBDtxHArdgRu",
+      "view_skin":"https://lh3.googleusercontent.com/9VTAltnIAj2sA5MqtpHUBkJOHm_P3dHK1_A26GWIAFZcHpORzs1Ldi_aqlQHWiEtmls6AJtihSjAXiOKfEvbbDw"
+    },
+	  {
+      "id":24,
+      "name_skin":"TBNR Among Us",
+      "skin_url":"https://lh3.googleusercontent.com/xGvgrQNQ0o0ugu3vNP8s7-fvhw8Q2BNHXZPqij42Jrdw8pcGfiKhXsti8Anef5N2y4oNbb4hzktisPSzSTNT5b7VMRNv9y1uh_0s",
+      "view_skin":"https://lh3.googleusercontent.com/ARnvsIBnTyDVWcuqquDz7dD_1iNiLl33WjPknBf72vg7U_kjU6L7-x3jP55cHfF5TaaojEyjHz9iMp8zgM4uDm3JGpN1zvhKLhQ"
+    },
+	{
+      "id":25,
+      "name_skin":"orange among us",
+      "skin_url":"https://lh3.googleusercontent.com/eq1CCu3QSQjOUKY7oKzOE0dpnInOmM-_T-4fsbUoUuoK7A6isUyXeUWGfM9HwT9R7eg9wKzE70uNbiNTM8VREQ",
+      "view_skin":"https://lh3.googleusercontent.com/kfDNMEdruj_LHJJRGShSGQdEgiEZVxjqA99Ml6eG2COEO_5rQAMEB5dTPwkvKteXAJFdT7FuS2oufmdha28ENg"
+    },
+	  {
+      "id":26,
+      "name_skin":"among us cyan",
+      "skin_url":"https://lh3.googleusercontent.com/XXz5JY7fwlW20dy-2y0rMr8SEMbur9FMEZPQu36gIp06E9bkwF--Sk2ktuY4FUx5UsnSMLcgyHukNC3AYHBj4fs",
+      "view_skin":"https://lh3.googleusercontent.com/-fXbz2Vj60dJjez70EB5E4ToLliIfMOJ5v69YGYr9_iFOCMu1Ds1VSrEjINydmgooWJWpjQpEfesBoNgBkpzwQ"
+    },
+	{
+      "id":27,
+      "name_skin":"Among us Red complete",
+      "skin_url":"https://lh3.googleusercontent.com/Z3yZf-RtyTvGwPkrzpFl0o3iCkMvq2TODpUHspxX3B3lPoo8EJOWgWfqj-LQaEij3mO2yBtwEuR7YTeaRrJfTQ",
+      "view_skin":"https://lh3.googleusercontent.com/oT9DGRNZApmEITJgqcnkKOkpbZsNfH5rpcJQLvE_SSvNXOzJfBxpb0gqp4MhXcRDTTyUqjvUpAXliA4MuY3FSw"
+    },
+	{
+      "id":28,
+      "name_skin":"roupa do among us",
+      "skin_url":"https://lh3.googleusercontent.com/tza69IRmv8UgXxXq9a6p1_nZ8_FN3vAolOJLsbMI99GHxecFcQMfwi-PZkimHgSU0Ra0Z2bUB065I1g-P1fO",
+      "view_skin":"https://lh3.googleusercontent.com/1UxwEkfVA47I9UDgFAIhWZpHZF_Cw1723dllVXoYGJ9F3oa2E4Q672b7kCEIcySyHV0CeMuX506woUhL0rmD"
+    },
+	{
+      "id":29,
+      "name_skin":"Among Us White",
+      "skin_url":"https://lh3.googleusercontent.com/PnUBqeEUh4EPUkHnaMHRDfOJ7bFA1A3R3HBw9SUJcm8wIA58Ee-70pkDlXtV2_UT4yeHFvRVvFpMWQFq6BqF",
+      "view_skin":"https://lh3.googleusercontent.com/RoBgTaCEfXZOxUYIF2X3djw1nKdCBSADQ2Sqhind0iduRyQIEYN4atT4-EY2bqmNBgZ1trnHtk-Rp40CS25SNg"
+    },
+	{
+      "id":30,
+      "name_skin":"Criador do Among Us",
+      "skin_url":"https://lh3.googleusercontent.com/fjkUlMry3fGTV0LcDuvyIGPuSAuDG7Od3I0k8MgI5wR0nI3ZNSNm2wryr0-Uua0HTI-XYqLAnOTn5pBYgmBC-O0",
+      "view_skin":"https://lh3.googleusercontent.com/pzbEHd9qdEBBhqmVQ5fiDjkRFtYs9ipNHTfXhKXhAHbd3PuIV9O_nDDus9V8b-izNjSO8yOvQdBvt0lFtwvb1c4"
+    },
+	    {
+      "id":31,
+      "name_skin":"among us impostor",
+      "skin_url":"https://lh3.googleusercontent.com/Fs8uXeZ--8afD6sVen6hyCAliqfM1iEwIx-KT3G0FPBIP9rJziA-AEldBdZtXRfLtxStQSy_vJdJOIKAtfLKPyI",
+      "view_skin":"https://lh3.googleusercontent.com/fIG69dg4HOaFwg9aQ2ltsSwGM7O8BWPIyfG6Vc-5MG6SGbHE3FKZ0nfQS_DB42EQvwP9Gwh3hO9tewH9IjrJAw"
+    },
+	{
+      "id":32,
+      "name_skin":"Among us",
+      "skin_url":"https://lh3.googleusercontent.com/jXCnnq2JLX9bYiSEsxFpHt-B_vqzuMeNBj7ZrHI5OVyvcvDzIYq9MO19ZmlG37KntykHSBosSYQuu16lwNMcTg",
+      "view_skin":"https://lh3.googleusercontent.com/wPzChKPO5WOwVN9K2bRVp3JTnqPhOBQXi1Ke606KXhrsKxgB65Wm4oR6B2tfc2UDMTMJaCFCdH2f-EJuHK-JSw"
+    },
+	{
+      "id":33,
+      "name_skin":"Yellow Among us",
+      "skin_url":"https://lh3.googleusercontent.com/CAHfGBFZWk9MEdGV5a4Yne5o-YbMsoMkJEluxSgF0IoPFQaMuD0yVz8bQfhkn4i3_VjbBeI3Ux2tjeygdxlkcTfA_2CQB4UbTg",
+      "view_skin":"https://lh3.googleusercontent.com/JMt8u18wpCRwFY0fyfyWi1Ivbq_C0ISjEUzVOuylRXYLtcyoNW9OL77LZ3H4h-TBX64We4yFY2As75ePv22CXwE6VOZOSm3vRJM"
+    },
+	  {
+      "id":34,
+      "name_skin":"Among Us Santa",
+      "skin_url":"https://lh3.googleusercontent.com/QBF_--pU7bCfMV6ahnUSwg7WCVPZXwTi_vNS87_xVc1KbtP67qI3uNm7PMaeF-tJT0z1EYUY3BTbvdxT5wz1xQ",
+      "view_skin":"https://lh3.googleusercontent.com/tdTxSmvw1geoyabOSi0qkatUn_GczqSYdvQqsrbUO00RPEwCJtoYruNIdHv-toBgMG5A2nlv9P7lME1EoQMIo8HqO0r3ZYNN4zs"
+    },
+	{
+      "id":35,
+      "name_skin":"among us duck",
+      "skin_url":"https://lh3.googleusercontent.com/9RpaJq7AJh5CxovKrePCQ6MACSviDrSzqYuMG7uENSQiSPAlPN9StySwmXQJkFuiI4aVYRQ93pVM7DKBbIQJu70",
+      "view_skin":"https://lh3.googleusercontent.com/LCLOA7q4z-gCDW0-5Ctl5FyrkM_bteQIDpOItlGKhodhuF2WJPmuNS2QJSNz9_V7pcfmFQ9I-4Z_YzSOqZed"
+    },
+	  {
+      "id":36,
+      "name_skin":"among us sans",
+      "skin_url":"https://lh3.googleusercontent.com/bUDryKcRq01Rmupf4jB3kl9DVDr2KdMgdKP9QBwTsBBrAsMJp68XaKbL10TwtQrU2U8I2fr3ifQ98dGkkzrI9l4KwaG6qTeD1cAD",
+      "view_skin":"https://lh3.googleusercontent.com/zTla2ARwI0-MLgJF8wk-te7SX5p6xXsUEQ2PWwXRcsFWXBQHU-rtbUHQ7XI33y6c646orRRRz6iwpq9sk4nmrLaNNNoxWk4Gjw"
+    },
+	{
+      "id":37,
+      "name_skin":"Green among us impostor",
+      "skin_url":"https://lh3.googleusercontent.com/h2ACa864a5aP8r2IAUl2K29p3MfhDrNgXCSpPMTP8RaE2-pwFnWjrJDyk2iraiPJK7gjEJfsH41GuchGirtJFU8",
+      "view_skin":"https://lh3.googleusercontent.com/hOVbo1BNse4jg8-3AfwflMljz4vkmuYxltUg1FpEQyt3CmxK0p0b0J3yXBi1hGC7DC2T7eM1iTNdyA_apyZxVA"
+    },
+	{
+      "id":38,
+      "name_skin":"AMONG US ic trevor henderson",
+      "skin_url":"https://lh3.googleusercontent.com/aX2Fd8IZ7oHgx6_tzwSOEBu8bxF74s8cVn_YkO-iqMvKO42Rj9k5CxjnNJOIhZqZa7iZ7nfAiSy3EtAdIZBHkw",
+      "view_skin":"https://lh3.googleusercontent.com/th2Lg9D3EEBPtOaTDmfNeuXFfEQ_H-g_4carIVXhhRj5atBJoGTJ29hRLylsgOqqfPp5UvwvGahyiKgKy0MvTg"
+    },
+	{
+      "id":39,
+      "name_skin":"boneco ciano among'us",
+      "skin_url":"https://lh3.googleusercontent.com/3naqOY3e7bNJXpUogmuDEt5zT5Now_6ehVQnSl34LwwvkklsLFF0cRc6C-nN-nADBMBO26dV-V2_s0UsJa5pJQ",
+      "view_skin":"https://lh3.googleusercontent.com/lq6H-ywgTJqEEXXXNaCpyQiZrY53gnrLEpN_izQimEN3Gl2zfnlYB7VDh7G3mDpXqDSqmylSStsXhbdYspeQ"
+    },
+	{
+      "id":40,
+      "name_skin":"among-us-red-suit",
+      "skin_url":"https://lh3.googleusercontent.com/sAiQ23IpOsUb__JclZDLY6nFNbpu7d_iKncz9rDpItZoMpU8lC-iZchwSPR1rJv3rhlrH8-Jqf2Py3XPRNuVFQ",
+      "view_skin":"https://lh3.googleusercontent.com/SIUmiTE7zlR-LZYBvgXsSb9iTMTNP0ECTGoIP0j7qLQTG8sswhP80Gvc-P5ugrel1Dv6OxsFz3pTwovhiNOWqw"
+    },
+	    {
+      "id":41,
+      "name_skin":"among us!",
+      "skin_url":"https://lh3.googleusercontent.com/dZd9qkITwTRjt1kwZts-I55MBtB16olM1-DZsBpTZm3K9qF5m0XHou9s-2vEtIkPJwzNijaD0V-mrOY4cDo22dQ",
+      "view_skin":"https://lh3.googleusercontent.com/-O2U2lbmSJFKy3a1J5YlVr7du9JJuqw1vlxKQf5vHL1YySmedozj8dYAxXnqg52i2z3pY-8BA8FYBDrYGOWJBw"
+    },
+	{
+      "id":42,
+      "name_skin":"among us orange dead",
+      "skin_url":"https://lh3.googleusercontent.com/BYrspxLlNOgF2BQriPhw_iAWgL47t41gtWPqs8H8ChVAkFAEWRuZ2hj634UUcv-Ml-anQb5ANYz4ivr37HQLWmc",
+      "view_skin":"https://lh3.googleusercontent.com/RRmK1y0uzuxqoza0l7xvKBtHcN0JF9eWFwFcrh7JwMnbVvSOuxVXoHCdgfx6sXWKUEgL6k2G5LvRQEntL2Yz2Y8"
+    },
+	{
+      "id":43,
+      "name_skin":"among us",
+      "skin_url":"https://lh3.googleusercontent.com/btLGzCeqcmk24VyF8JKwGtDSBgkgHSpYbS8bCRGeaSU3WxhtTaekqDxZKHz_k9PdJdl0pRTc2YM3nDl98J7qJK0fAM81hPDF7I4",
+      "view_skin":"https://lh3.googleusercontent.com/kG3EUIqqbQTKSWtcH3149F3xWVbzMEhk-svrq1RsumHnKQJEb9sYIAFHyuXM-Jw693skzFuzdvK83btSc5xi5PgEZjDHymaT678"
+    },
+	  {
+      "id":44,
+      "name_skin":"among us",
+      "skin_url":"https://lh3.googleusercontent.com/jGOb6NYGaGW7UPUvbUloIQAk7KBGnjNeHQ0qfDa-5iozhBxbb6OduRregeyabdz_23to5Tr2OPCIDJ44mnDAVYo",
+      "view_skin":"https://lh3.googleusercontent.com/Of2KvhYogYvwVlPYWaOye1GNjtz7-8R9HUj2sr2EXpml1AliFpQPEA2bLmwB2zGVaAWPUaUL9EYtYmoRiw_mwZU"
+    },
+	{
+      "id":45,
+      "name_skin":"among us red with kid hat",
+      "skin_url":"https://lh3.googleusercontent.com/wmpsEPa_t4OJ8riSR1JzolY5aX-9k1pWq2Dt61e_QQstHNu9P1PrGMAcY04kIPZZSKuS9Kq6fhzI7eIIzonu",
+      "view_skin":"https://lh3.googleusercontent.com/dB5AEr95o7agaNRAYb9Om_y3-v4kXXOPyhyGAAyc2ffgu1K0VRbJ0Sg3DiylNZycjq_XsWahPd-hkt4t3ILZR7g"
+    },
+	  {
+      "id":46,
+      "name_skin":"black among us character",
+      "skin_url":"https://lh3.googleusercontent.com/mVmasxtmswQLJHIbJgz56oJeELjuy25jIUEpE9vQTJUOf8755tWo-USDjOHn6nDTI4Q5JpWltfs0OMrVt5lcCg",
+      "view_skin":"https://lh3.googleusercontent.com/sitXu8Lysp5fU69DI3hE6qY44sGX19QPGS6mzF79u9uPz5KF_-DBOvLcYUtzO42KoCylN1bdZEg2nKK961rA6amF-fcVTDPMNA"
+    },
+	{
+      "id":47,
+      "name_skin":"akatsuki-among-us",
+      "skin_url":"https://lh3.googleusercontent.com/k3l-iF6sJxGDT3ANtAb35ts0pfaN9kFVw7aLJo1qHuE83mhx8c63Xl1ToGdW7B0ev6QNSMB6uTA83wX5geTHig",
+      "view_skin":"https://lh3.googleusercontent.com/RpQ2qr3fmTh-OwwCOBbsJaFfm2qDSYQIXs9vjW9_7nljd2Kpt3o1gd-29nCvE-bfV7SnrLY3HzjuzsVXmK1F"
+    },
+	{
+      "id":48,
+      "name_skin":"blue among us duck",
+      "skin_url":"https://lh3.googleusercontent.com/eutgMPy-di-q2Y4Rs0LlrtTAPDPqe42RyyBz_YHRvJ5PxZhswybaP8YG3iruEEJ8h4_LSdZo--wKgJy1Ru8zlnk8YwCjZ0hdqEs",
+      "view_skin":"https://lh3.googleusercontent.com/8_n0jQgXgLNqvg1vXd0B8My3pf-XOgwiqVpzaPByvHhls9X09Iv1WDxVHvY6opw9Bc1J8zryfqBnbfcK4WOV2AelULKcl0XyPQ"
+    },
+	{
+      "id":49,
+      "name_skin":"Herobrine Among us dead body",
+      "skin_url":"https://lh3.googleusercontent.com/3Zo_w_c765tQQLsKVU0uNTZhAFUopOWwKksQCZYeW0dXgp770V4GQN_l_qxY3Q1TJl1CPfM42uXCr-zNSq0S-dLpP9y8ipn3LGM",
+      "view_skin":"https://lh3.googleusercontent.com/kHf5ueQTiV5vQv0nOzuRqbtgmj8AgnzQuab3Xxd-1TzjCQjx0IT-0GidkjFrsmvNoI3OCMiFisOq91jvH_jWcdfmlNZeIGYEnMAf"
+    },
+	{
+      "id":50,
+      "name_skin":"among us dead green",
+      "skin_url":"https://lh3.googleusercontent.com/Ecv8nTdRzahfWjpYr6QOGSZM14zvfhdLTfwlbJQQyySsDpijX0y_33KJtx1cnoTdZ-HB4q0vsXsRNmlPq7fZN0Gbv9xWqiOfL6w",
+      "view_skin":"https://lh3.googleusercontent.com/YoZYn39Pb343qoArz_77I9lLcQfM1koC_XOKugvzCi-9wKyLMHMVMWf7OWkwjkM48sFEUQ5bjh25IzFrnIDE6nlgVHpKIjE-TQvH"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Cat Plush",
+      "add_url":"https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+      "addB_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+      "view_add":"https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+      "des_add":"https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Hello Neighbor2",
+      "map_url":"https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+    }
+  ]
+}
